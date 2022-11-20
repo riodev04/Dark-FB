@@ -3,13 +3,13 @@ Hacking Tools And Facebook Bot
 
 > **Disclaimer:** Please do not use this on a device you don't own or do not have permission to. We do not take any responsibility.
 
-## LOGIN:
+## Metode Login
 - [x] NORMAL LOGIN (api)
 - [x] NORMAL LOGIN (mbasic)
 - [x] ACCESS TOKEN LOGIN
 - [x] Cookie Login
 
-## FEATURES:
+## Features
 - [x] User Information
 - [x] Mini Hack Facebook (Target)
 - [x] Multi Bruteforce Facebook
