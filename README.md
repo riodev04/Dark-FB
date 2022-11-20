@@ -68,6 +68,7 @@ Facebook Hacking Tool, with Bruteforce and Crack method, also provides Facebook 
 ```bash
 sudo apt-get upgrade
 sudo apt-get upgrade
+sudo apt-get install git
 sudo apt-get install ruby
 git clone https://github.com/riodev04/Dark-FB
 cd Dark-FB
