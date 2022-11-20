@@ -68,6 +68,9 @@ ruby main.rb
 
 ## Donate
 Dana (085838762728)
+
 Gopay (085838762728)
+
 Pulsa (085838762728) Indosat
+
 Saweria (https://saweria.co/riodev)
