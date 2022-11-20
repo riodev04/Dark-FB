@@ -1,4 +1,8 @@
 # Dark FB
+
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 Hacking Tools And Facebook Bot
 
 > **Disclaimer:** Please do not use this on a device you don't own or do not have permission to. We do not take any responsibility.
