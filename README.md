@@ -86,16 +86,6 @@ First install Ruby and Git Bash on the official website below:
 If everything is installed, please open one of the CMD, Windows PowerShell, or Git Bash and enter the command below:
 ```bash
 git clone https://github.com/riodev04/Dark-FB
-cd socialhack
-ruby main.rb
-```
-
-## INSTALLATION
-```bash
-pkg upgrade && pkg update
-pkg install ruby
-pkg install git
-git clone https://github.com/riodev04/Dark-FB
 cd Dark-FB
 ruby main.rb
 ```
