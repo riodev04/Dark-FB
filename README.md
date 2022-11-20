@@ -56,6 +56,40 @@ Hacking Tools And Facebook Bot
 - [x] Page Bot Delete Post
 - [x] Get Page Access Token
 
+## Installation
+
+### Installation for Linux
+```bash
+sudo apt-get upgrade
+sudo apt-get upgrade
+sudo apt-get install ruby
+git clone https://github.com/riodev04/Dark-FB
+cd Dark-FB
+ruby main.rb
+```
+### Installation for Termux
+```bash
+pkg upgrade
+pkg upgrade
+pkg install ruby
+pkg install git
+git clone https://github.com/riodev04/Dark-FB
+cd Dark-FB
+ruby main.rb
+```
+
+### Installation for Windows
+First install Ruby and Git Bash on the official website below:
+- [**Ruby**](https://rubyinstaller.org/)
+- [**Git Bash**](https://git-scm.com/downloads)
+
+If everything is installed, please open one of the CMD, Windows PowerShell, or Git Bash and enter the command below:
+```bash
+git clone https://github.com/riodev04/Dark-FB
+cd socialhack
+ruby main.rb
+```
+
 ## INSTALLATION
 ```bash
 pkg upgrade && pkg update
@@ -66,6 +100,9 @@ cd Dark-FB
 ruby main.rb
 ```
 
+## Youtube Channels
+Don't forget to subscribe, so that it can be an encouragement, the YouTube channel : [**Rio Dev**](https://www.youtube.com/@riodev)
+
 ## Donate
 Dana (085838762728)
 
@@ -74,3 +111,9 @@ Gopay (085838762728)
 Pulsa (085838762728) Indosat
 
 Saweria (https://saweria.co/riodev)
+
+# Contributors
+
+<a href="https://github.com/riodev04/Dark-FB/graphs/contributors">
+  <img width="20%" src="https://contrib.rocks/image?repo=riodev04/Dark-FB" />
+</a>
