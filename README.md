@@ -2,6 +2,7 @@
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![Youtube](https://img.shields.io/badge/Youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://youtube.com/c/HYDRAGAMING4U)
 
 Hacking Tools And Facebook Bot
 
